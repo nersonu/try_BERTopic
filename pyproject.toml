@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "try-bertopic"
+version = "0.1.0"
+description = ""
+authors = ["nersonu <nersonu@gmail.com>"]
+readme = "README.md"
+packages = [{include = "try_bertopic"}]
+
+[tool.poetry.dependencies]
+python = "^3.10,<3.11"
+bertopic = "^0.13.0"
+pandas = "^1.5.3"
+
+
+[tool.poetry.group.dev.dependencies]
+notebook = "^6.5.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

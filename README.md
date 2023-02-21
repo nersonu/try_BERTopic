@@ -3,6 +3,12 @@
 ![](https://img.shields.io/badge/python-3.10-blue)
 ![](https://img.shields.io/badge/poetry-%5E1.3.0-blue)
 
+## ブログ記事
+
+こちらのブログ記事のサンプルコードになります。
+
+- **[BERTopic で文書のクラスタリングを試す](https://buildersbox.corp-sansan.com/entry/2023/02/21/110000)**
+
 ## 使い方
 
 必要なライブラリをインストール (Poetry を使う場合)
